@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=54a7ff,00ccff,00ff99&height=250&section=header&text=Siva%20K.%20Tompala&fontSize=80&fontAlignY=35&animation=depth&desc=Data%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Tinkerer&descAlignY=60&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=54a7ff,00ccff,00ff99&height=250&section=header&text=Siva.K&fontSize=80&fontAlignY=35&animation=depth&desc=Data%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Tinkerer&descAlignY=60&descAlign=50" alt="Header" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=500&color=66CCFF&center=true&vCenter=true&width=450&lines=Coding+the+Future%2C+One+Commit+at+a+Time.;Turning+Coffee+into+Code.;Problem+Solver+by+Day%2C+Debugger+by+Night.;Welcome+to+my+Digital+Forge." alt="Typing SVG" />
